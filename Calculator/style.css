@@ -1,0 +1,71 @@
+
+body{
+    margin: 49.7px;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(135deg,hsl(247, 100%, 88%),hsl(240, 40%, 30%));
+}
+#calculator{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg,hsl(192, 96%, 90%),hsl(219, 58%, 70%));
+    border-radius: 10px;
+    padding: 20px;
+    width: max-content;
+    width: 370px;
+
+}
+
+button{
+    height: 70px;
+    width: 70px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    background: linear-gradient(135deg,rgb(91, 222, 255),rgb(50, 194, 255));
+    color: white;
+    font-size: 20px;
+}
+#buttons{
+    display: grid;
+    grid-template-columns: repeat(4,0.07fr);
+    gap:15px;
+    padding: 20px;
+    place-items: center;
+}
+
+#display{
+    width:  80%;
+    padding: 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    border: none;
+    text-align: left;
+    color: hsl(208, 85%, 60%);
+}
+
+button:hover{
+    background:linear-gradient(135deg,hsl(192, 100%, 70%),hsl(198, 100%, 70%));
+}
+
+#result{
+    width: 40%;
+    padding: 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    border: none;
+    text-align: left;
+    background-color:rgb(104, 172, 255);
+
+}
+
+.dis{
+    display: flex;
+    gap: px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(101, 51, 227);
+}
