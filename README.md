@@ -4,13 +4,14 @@ A collection of small to medium-sized frontend projects built with pure HTML, CS
 # 1. Calculator
 A simple calculator app that supports basic arithematic operations like addition,substraction,multiplication and division
 #### Demo
-Screenshot: <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/409db842-f528-47f5-831d-041b83f2b52c" />
+Screenshot: <img width="1919" height="916" alt="Screenshot 2025-08-08 155204" src="https://github.com/user-attachments/assets/7e073e9a-1a44-4232-97c7-3d8c393ef123" />
 
 Demo: https://deluxe-llama-7184eb.netlify.app/
 
 # 2.Stopwatch
 A simple stopwatch webapp made using HTML,CSS,JavaScript
 ## Demo
-Screenshot: <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/81b597a2-0322-4365-94f7-d7d8cb3c955b" />
+Screenshot: <img width="1919" height="916" alt="Screenshot 2025-08-08 182026" src="https://github.com/user-attachments/assets/ce5bb37d-003a-4e45-867f-4d0a84ed2c42" />
+
 Demo: https://stoptowatch.netlify.app/
 
