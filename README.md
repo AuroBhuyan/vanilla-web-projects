@@ -15,3 +15,9 @@ Screenshot: <img width="1919" height="916" alt="Screenshot 2025-08-08 182026" sr
 
 Demo: https://stoptowatch.netlify.app/
 
+# 3.Colourpicker
+A simple colour picker webapp using HTML,CSS,JavaScript
+## Demo
+Schreenshot: <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/5e3f9cef-10c1-463c-852c-ef0a5f5d23e0" />
+
+Demo:https://colourpicker123.netlify.app/
