@@ -28,8 +28,9 @@ button{
     max-width: 200px;
     background-color: yellowgreen;
     border-radius: 10px;
-    width: 50%;
+    width: 100px;
     padding: 10px;
     word-wrap: break-word;
     font-weight: lighter;
+    min-height: 100px;
 }
