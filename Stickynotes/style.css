@@ -1,0 +1,35 @@
+body{
+    font-family:cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    border-radius: 13px; 
+    margin-top: 5%; 
+    margin-bottom: 5%;
+    width: 35%;
+    min-height: 30px;
+    height: 10%;
+    background-color: rgb(36, 177, 36);
+    border: none;
+}
+
+#board{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.note{
+    display: inline-block;
+    max-width: 200px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    width: 50%;
+    padding: 10px;
+    word-wrap: break-word;
+    font-weight: lighter;
+}
