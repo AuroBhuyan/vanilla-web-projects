@@ -25,6 +25,7 @@ Demo:https://colourpicker123.netlify.app/
 # 4.Stickynotes
 A simple webapp to add and delete sticky notes
 ## Demo
-Schreenshot:
+Schreenshot:<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/80e0b938-e00d-430c-aacd-3d6f3c484265" />
 
-Demo:
+
+Demo:https://stickynotes125.netlify.app/
