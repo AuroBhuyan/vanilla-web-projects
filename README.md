@@ -21,3 +21,10 @@ A simple colour picker webapp using HTML,CSS,JavaScript
 Schreenshot: <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/5e3f9cef-10c1-463c-852c-ef0a5f5d23e0" />
 
 Demo:https://colourpicker123.netlify.app/
+
+# 4.Stickynotes
+A simple webapp to add and delete sticky notes
+## Demo
+Schreenshot:
+
+Demo:
