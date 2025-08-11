@@ -3,15 +3,25 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: aliceblue;
 }
 
-button{
+#noteInput{
     border-radius: 13px; 
     margin-top: 5%; 
+    width: 300px;
+    min-height: 40px;
+    background-color: rgb(211, 247, 211);
+    border: none;
+    text-align: center;
+}
+
+#addNoteButton{
+    border-radius: 13px; 
+    margin-top: 1%; 
     margin-bottom: 5%;
-    width: 35%;
-    min-height: 30px;
-    height: 10%;
+    width: 200px;
+    min-height: 40px;
     background-color: rgb(36, 177, 36);
     border: none;
 }
@@ -24,13 +34,24 @@ button{
 }
 
 .note{
+    position: relative;
     display: inline-block;
     max-width: 200px;
-    background-color: yellowgreen;
     border-radius: 10px;
-    width: 100px;
-    padding: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 10px 10px 10px 10px;
     word-wrap: break-word;
     font-weight: lighter;
-    min-height: 100px;
+}
+
+.delete{
+    border-radius: 30px;
+    background-color: red;
+    position: absolute;
+    top: 5px;
+    right: 5px; 
+    width: 25px;
+    height: 25px;
+    border: none;
 }
