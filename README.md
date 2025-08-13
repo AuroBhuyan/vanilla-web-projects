@@ -32,3 +32,7 @@ Demo:https://stickynotes125.netlify.app/
 
 # 5.Todolist
 A simple todo list
+## Demo
+Schreenshot: <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/641a65e6-b775-4c19-87be-9c1de2b6ea72" />
+
+Demo: https://todolist1357.netlify.app/
